@@ -290,7 +290,6 @@ Eight papers, newest first. The full list is on [Google Scholar](https://scholar
 |---|---|
 | 🪐 **NASA Preliminary Discovery Certificate** | For the asteroid discovery made through NASA citizen science. |
 | 🧑‍🚀 **NASA Citizen Scientist Certificate** | For contributing to NASA citizen-science research. |
-| 🌌 **Certificate of Appreciation** | From IASC, NASA, SSERD and Genex Space, for analysis of near-Earth objects and main-belt asteroids through the Pan-STARRS program. |
 | 🏅 **GDSC award** | All nine badges across the Google Computing Foundations and Generative AI Level 3 pathways, plus Google swag (Dec 2023). |
 | ⭐ **Top Performer, Extion Infotech** | Recognised in both the AI and Junior HR internships, with a Letter of Appreciation and a Letter of Recommendation. |
 | 🅰️ **A-Grade, Skyhighes Technologies** | For performance as Prompt Engineer Intern. |
