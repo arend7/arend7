@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<p><img src="./assets/header.svg" alt="Aren D’Souza: AI engineer and NASA citizen scientist. B.Tech CSE (AIML), Bengaluru." width="100%"></p>
+<p><img src="./assets/header.svg" alt="Aren D’Souza: AI engineer, Machine learning engineer, AI ML Engineer, Prompt Engineer and NASA citizen scientist. B.Tech CSE (AIML), Bengaluru." width="100%"></p>
 
 <br>
 
